@@ -1,0 +1,18 @@
+{
+  "name": "Maria Korosteleva",
+  "short_name": "Maria Korosteleva",
+  "lang": "en-us",
+  "theme_color": "#DC9C9C",
+  "background_color": "#DC9C9C",
+  "icons": [{
+    "src": "/media/icon_hu86f16160976f85559d11f7c80ea3bd7b_236619_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_hu86f16160976f85559d11f7c80ea3bd7b_236619_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
