@@ -1,172 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publications | Maria Korosteleva</title>
-    <link>https://maria-korosteleva.github.io/publication/</link>
-      <atom:link href="https://maria-korosteleva.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://maria-korosteleva.github.io/media/icon_hu86f16160976f85559d11f7c80ea3bd7b_236619_512x512_fill_lanczos_center_3.png</url>
-      <title>Publications</title>
-      <link>https://maria-korosteleva.github.io/publication/</link>
-    </image>
-    
-    <item>
-      <title>NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments</title>
-      <link>https://maria-korosteleva.github.io/publication/neuraltailor/</link>
-      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://maria-korosteleva.github.io/publication/neuraltailor/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-neuraltailor-pipeline-first-recovering-number-of-panels-their-shapes-and-locations-and-second-recovering-the-stitching-information&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;NeuralTailor pipeline: first, recovering number of panels, their shapes and locations, and, second, recovering the stitching information&#34; srcset=&#34;
-               /publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_59a1a4811bbdd1a2c6bc673ce211b168.webp 400w,
-               /publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_304a066a0c67844cb1c304665181f355.webp 760w,
-               /publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://maria-korosteleva.github.io/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_59a1a4811bbdd1a2c6bc673ce211b168.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;165&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      NeuralTailor pipeline: first, recovering number of panels, their shapes and locations, and, second, recovering the stitching information
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Generating Datasets of 3D Garments with Sewing Patterns</title>
-      <link>https://maria-korosteleva.github.io/publication/garment_dataset/</link>
-      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://maria-korosteleva.github.io/publication/garment_dataset/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-examples-of-garment-models-with-corresponding-sewing-patterns-from-our-dataset&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Examples of garment models with corresponding sewing patterns from our dataset&#34; srcset=&#34;
-               /publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_159027e55219de02c43bc351ae891d86.webp 400w,
-               /publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_0aed045086edbe82dd2807819113dbdb.webp 760w,
-               /publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://maria-korosteleva.github.io/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_159027e55219de02c43bc351ae891d86.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;175&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Examples of garment models with corresponding sewing patterns from our dataset
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Estimating Garment Patterns from Static Scan Data</title>
-      <link>https://maria-korosteleva.github.io/publication/pattern_flattening_sb/</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://maria-korosteleva.github.io/publication/pattern_flattening_sb/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  id=&#34;figure-reconstructing-garments-through-estimating-stitch-lines-and-flattening-of-fabric-pieces&#34;&gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Examples of garment models with corresponding sewing patterns from our dataset&#34; srcset=&#34;
-               /publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_d8f568268fd3ac8d1fd47907a7d7313b.webp 400w,
-               /publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_4903bbf207ffc27d850e9f5aff1ba2ab.webp 760w,
-               /publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://maria-korosteleva.github.io/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_d8f568268fd3ac8d1fd47907a7d7313b.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;308&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;figcaption&gt;
-      Reconstructing garments through estimating stitch lines and flattening of fabric pieces
-    &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications | Maria Korosteleva</title><link>https://maria-korosteleva.github.io/publication/</link><atom:link href="https://maria-korosteleva.github.io/publication/index.xml" rel="self" type="application/rss+xml"/><description>Publications</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jul 2022 00:00:00 +0000</lastBuildDate><image><url>https://maria-korosteleva.github.io/media/icon_hu86f16160976f85559d11f7c80ea3bd7b_236619_512x512_fill_lanczos_center_3.png</url><title>Publications</title><link>https://maria-korosteleva.github.io/publication/</link></image><item><title>NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments</title><link>https://maria-korosteleva.github.io/publication/neuraltailor/</link><pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate><guid>https://maria-korosteleva.github.io/publication/neuraltailor/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+&lt;p>
+&lt;figure id="figure-neuraltailor-pipeline-first-recovering-number-of-panels-their-shapes-and-locations-and-second-recovering-the-stitching-information">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="NeuralTailor pipeline: first, recovering number of panels, their shapes and locations, and, second, recovering the stitching information" srcset="
+/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_f4f08f176487389dda9506f35409bcab.webp 400w,
+/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_8063716fef9c4d1ca3ef7f4a53f589f8.webp 760w,
+/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://maria-korosteleva.github.io/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_f4f08f176487389dda9506f35409bcab.webp"
+width="760"
+height="165"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+NeuralTailor pipeline: first, recovering number of panels, their shapes and locations, and, second, recovering the stitching information
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>Generating Datasets of 3D Garments with Sewing Patterns</title><link>https://maria-korosteleva.github.io/publication/garment_dataset/</link><pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate><guid>https://maria-korosteleva.github.io/publication/garment_dataset/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+&lt;p>
+&lt;figure id="figure-examples-of-garment-models-with-corresponding-sewing-patterns-from-our-dataset">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Examples of garment models with corresponding sewing patterns from our dataset" srcset="
+/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_35ab43f3f21a8f0d387bf7077bb98a8b.webp 400w,
+/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_6e991a68c7c1dfc3e43bf4d8a1a40f34.webp 760w,
+/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+src="https://maria-korosteleva.github.io/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_35ab43f3f21a8f0d387bf7077bb98a8b.webp"
+width="760"
+height="175"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Examples of garment models with corresponding sewing patterns from our dataset
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item><item><title>Estimating Garment Patterns from Static Scan Data</title><link>https://maria-korosteleva.github.io/publication/pattern_flattening_sb/</link><pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate><guid>https://maria-korosteleva.github.io/publication/pattern_flattening_sb/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+-->
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+&lt;p>
+&lt;figure id="figure-reconstructing-garments-through-estimating-stitch-lines-and-flattening-of-fabric-pieces">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img alt="Examples of garment models with corresponding sewing patterns from our dataset" srcset="
+/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_ec60bff21cea474a8cc37141b760ac62.webp 400w,
+/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_955ba34bbe304411995fbbcbf2f7c8c6.webp 760w,
+/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+src="https://maria-korosteleva.github.io/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_ec60bff21cea474a8cc37141b760ac62.webp"
+width="760"
+height="308"
+loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+Reconstructing garments through estimating stitch lines and flattening of fabric pieces
+&lt;/figcaption>&lt;/figure>
+&lt;/p></description></item></channel></rss>
