@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://maria-korosteleva.github.io/sitemap.xml
+Sitemap: https://korosteleva.com/sitemap.xml
