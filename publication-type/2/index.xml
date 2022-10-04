@@ -9,22 +9,7 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
-&lt;p>
-&lt;figure id="figure-neuraltailor-pipeline-first-recovering-number-of-panels-their-shapes-and-locations-and-second-recovering-the-stitching-information">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="NeuralTailor pipeline: first, recovering number of panels, their shapes and locations, and, second, recovering the stitching information" srcset="
-/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_0c3c76a3c183fc9bd15b59ecdfc0b0fa.webp 400w,
-/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_04ae2f5285dfa8cfa6cfb55539392991.webp 760w,
-/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
-src="https://korosteleva.com/publication/neuraltailor/nt_pipeline_hudf471c10f6e02a3a70576bd55ed8027e_372887_0c3c76a3c183fc9bd15b59ecdfc0b0fa.webp"
-width="760"
-height="165"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-NeuralTailor pipeline: first, recovering number of panels, their shapes and locations, and, second, recovering the stitching information
-&lt;/figcaption>&lt;/figure>
-&lt;/p></description></item><item><title>Estimating Garment Patterns from Static Scan Data</title><link>https://korosteleva.com/publication/pattern_flattening_sb/</link><pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate><guid>https://korosteleva.com/publication/pattern_flattening_sb/</guid><description>&lt;!-- &lt;div class="alert alert-note">
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Estimating Garment Patterns from Static Scan Data</title><link>https://korosteleva.com/publication/pattern_flattening_sb/</link><pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate><guid>https://korosteleva.com/publication/pattern_flattening_sb/</guid><description>&lt;!-- &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 &lt;/div>
@@ -35,19 +20,4 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 -->
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
-&lt;p>
-&lt;figure id="figure-reconstructing-garments-through-estimating-stitch-lines-and-flattening-of-fabric-pieces">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Examples of garment models with corresponding sewing patterns from our dataset" srcset="
-/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_7b16d0056bde90403160ff260cf99a8a.webp 400w,
-/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_8bd062fbff4f5f7fd153ad9768c1ca07.webp 760w,
-/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_1200x1200_fit_q100_h2_lanczos.webp 1200w"
-src="https://korosteleva.com/publication/pattern_flattening_sb/scan2cloth_hue4d6a87856f61f6fbae42d1946352b71_141574_7b16d0056bde90403160ff260cf99a8a.webp"
-width="760"
-height="308"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-Reconstructing garments through estimating stitch lines and flattening of fabric pieces
-&lt;/figcaption>&lt;/figure>
-&lt;/p></description></item></channel></rss>
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item></channel></rss>

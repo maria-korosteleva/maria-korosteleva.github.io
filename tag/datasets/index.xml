@@ -10,18 +10,4 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 -->
 &lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
-&lt;p>
-&lt;figure id="figure-examples-of-garment-models-with-corresponding-sewing-patterns-from-our-dataset">
-&lt;div class="d-flex justify-content-center">
-&lt;div class="w-100" >&lt;img alt="Examples of garment models with corresponding sewing patterns from our dataset" srcset="
-/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_7a51825010327a69e134b2fe3e9bed75.webp 400w,
-/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_aa5a543094b858c1647f5c35465176b9.webp 760w,
-/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_1200x1200_fit_q100_h2_lanczos_3.webp 1200w"
-src="https://korosteleva.com/publication/garment_dataset/featured_all_hu0b08c274d602e3d972f623479ddc539f_1678599_7a51825010327a69e134b2fe3e9bed75.webp"
-width="760"
-height="175"
-loading="lazy" data-zoomable />&lt;/div>
-&lt;/div>&lt;figcaption>
-Examples of garment models with corresponding sewing patterns from our dataset
-&lt;/figcaption>&lt;/figure>
-&lt;/p></description></item></channel></rss>
+&lt;!-- ![Examples of garment models with corresponding sewing patterns from our dataset](featured_all.png "Examples of garment models with corresponding sewing patterns from our dataset") --></description></item></channel></rss>
